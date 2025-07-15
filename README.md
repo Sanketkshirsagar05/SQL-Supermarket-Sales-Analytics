@@ -69,8 +69,7 @@ Queries are optimized for readability and performance.
 ## 🛠️ Tools & Technologies
 
 - **SQL** (MySQL)
-- **Power BI** / **Tableau** *(optional visualization layer)*
-- **Excel** *(for data cleaning if required)*
+- **Excel** *(for data cleaning )*
 
 ---
 
